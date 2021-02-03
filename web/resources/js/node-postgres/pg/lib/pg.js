@@ -1,0 +1,10 @@
+require('client.js');
+require('connection.js');
+require('connection-fast.js');
+require('defaults.js');
+require('index.js');
+require('query.js');
+require('results.js');
+require('sasl.js');
+require('type-overrides.js');
+require('utils.js');
